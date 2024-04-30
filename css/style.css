@@ -1,0 +1,25 @@
+body{
+	background: beige;
+}
+header{
+	background: #6D6AD4;
+}
+
+
+.UpperBlock{
+	display: flex;
+}
+
+.mainBlock{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+footer{
+	background-color: rgb(49, 80, 99);
+	color: #CCFFE5;
+	font-family: Arial;
+	font-size: 30px;
+}
